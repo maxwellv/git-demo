@@ -1,4 +1,4 @@
 git-demo
 ========
 
-a demo repo
+a demo repo!
